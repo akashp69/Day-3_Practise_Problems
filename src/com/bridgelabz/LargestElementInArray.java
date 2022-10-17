@@ -4,11 +4,11 @@ public class LargestElementInArray {
     public static void main(String[] args) {
         int array[] = {10, 45, 60, 75, 90};
         int a, b, c, d, e;
-        a = array[0];
-        b = array[1];
-        c = array[2];
-        d = array[3];
-        e = array[4];
+        a = array[0];//10
+        b = array[1];//45
+        c = array[2];//60
+        d = array[3];//75
+        e = array[4];//90
 
 
         if (a> b && a > c && a > d && a > e) {
